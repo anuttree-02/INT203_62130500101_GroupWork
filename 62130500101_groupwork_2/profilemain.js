@@ -3,7 +3,7 @@
             return {
                 Name: 'Anuttree Tipmom',
                 Position: 'Student',
-                Image: 'images/1.jpg'
+                Image: 'profileimages/1.jpg'
             }
         }
 
